@@ -24,9 +24,8 @@ End-to-end cab booking data analysis project using Excel, MySQL, Python (EDA), a
 👉 [📂 Project Files](#project-structure)  
 👉 [🔍 Insights](#key-insights)  
 👉 [🎥 Demo](#project-demo)  
----
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Cab services generate massive data, but without analytics:
 - No visibility into cancellations  
@@ -37,7 +36,7 @@ Cab services generate massive data, but without analytics:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Tool      | Purpose |
 |----------|--------|
@@ -48,12 +47,12 @@ Cab services generate massive data, but without analytics:
 
 ---
 
-## 🗄️ Database Design (ER Diagram)
+##  Database Design (ER Diagram)
 
 <p align="center">
   <img src="Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/Images/SQL_ERR_Diagram.jpeg" width="80%"/>
 </p>
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Data Cleaning using Excel  
 2. Data stored and structured in MySQL  
@@ -63,7 +62,7 @@ Cab services generate massive data, but without analytics:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 📁 Click below to explore files:
 
@@ -73,7 +72,7 @@ Cab services generate massive data, but without analytics:
 - 📁 [Dataset](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/Data/cab_rides_final.csv)  
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### 🔹 Ride Hailing Executive Overview
 <p align="center">
@@ -92,7 +91,7 @@ Cab services generate massive data, but without analytics:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ✨ Peak ride demand during evening hours  
 ✨ High cancellation rate in specific vehicle types  
@@ -101,13 +100,13 @@ Cab services generate massive data, but without analytics:
 
 ---
 
-## 🎥 Project Demo
+## Project Demo
 
 👉 [▶ Watch Dashboard Demo](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_Preview.mp4)
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 ✔ Helps reduce cancellations  
 ✔ Tracks revenue trends  
@@ -116,7 +115,7 @@ Cab services generate massive data, but without analytics:
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 - Real-time data integration  
 - Predictive demand forecasting  
