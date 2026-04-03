@@ -2,8 +2,6 @@
 
 End-to-end cab booking data analysis project using Excel, MySQL, Python (EDA), and Power BI to uncover insights on ride trends, cancellations, and revenue.
 
-**Keywords:** Data Analysis, SQL, Python, Power BI, Business Intelligence, Data Analytics Project
-
 <p align="center">
   <img src="Cab Booking System(End_to_End_Data_Analytics_Project)/Images/Ride_hailing_executive_overview.png" width="90%"/>
 </p>
@@ -52,6 +50,11 @@ Cab services generate massive data, but without analytics:
 
 ---
 
+## 🗄️ Database Design (ER Diagram)
+
+<p align="center">
+  <img src="Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/Images/SQL_ERR_Diagram.jpeg" width="80%"/>
+</p>
 ## 🔄 Project Workflow
 
 1. Data Cleaning using Excel  
@@ -66,18 +69,17 @@ Cab services generate massive data, but without analytics:
 
 📁 Click below to explore files:
 
-- 📊 [Dashboard](Cab Booking System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_System.pbix)  
-- 🗄️ [SQL Queries](Cab Booking System(End_to_End_Data_Analytics_Project)/SQL_queries/Cab_booking_system.sql)  
-- 🐍 [Python EDA](Cab Booking System(End_to_End_Data_Analytics_Project)/Python/cab_booking_python.ipynb)  
-- 📁 [Dataset](Cab Booking System(End_to_End_Data_Analytics_Project)/Data/cab_rides_final.csv)  
-
+- 📊 [Dashboard](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_System.pbix)  
+- 🗄️ [SQL Queries](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/SQL_queries/Cab_booking_system.sql)  
+- 🐍 [Python EDA](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/Python/cab_booking_python.ipynb)  
+- 📁 [Dataset](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/Data/cab_rides_final.csv)  
 ---
 
 ## 📊 Dashboard Preview
 
 ### 🔹 Ride Hailing Executive Overview
 <p align="center">
-  <img src="Cab Booking System(End_to_End_Data_Analytics_Project)/Images/Ride_hailing_overview.png" width="80%"/>
+  <img src="Cab Booking System(End_to_End_Data_Analytics_Project)/Images/Ride_hailing_executive_overview.png" width="80%"/>
 </p>
 
 ### 🔹 Operations & Demand Analysis
@@ -103,7 +105,7 @@ Cab services generate massive data, but without analytics:
 
 ## 🎥 Project Demo
 
-👉 [▶ Watch Dashboard Demo](Cab Booking System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_Preview.mp4)
+👉 [▶ Watch Dashboard Demo](Cab%20Booking%20System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_Preview.mp4)
 
 ---
 
