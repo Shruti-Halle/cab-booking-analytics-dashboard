@@ -128,6 +128,6 @@ Cab services generate massive data, but without analytics:
 
 ## 🙌 Connect With Me
 
-- 🔗 LinkedIn: (add your link here)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shruti-halle-767a3a274)
 
 ---
