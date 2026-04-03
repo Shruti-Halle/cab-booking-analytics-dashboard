@@ -66,10 +66,10 @@ Cab services generate massive data, but without analytics:
 
 📁 Click below to explore files:
 
-- 📊 [Dashboard](powerbi_dashboard/Cab_Booking_System.pbix)  
-- 🗄️ [SQL Queries](SQL_queries/Cab_booking_system.sql)  
-- 🐍 [Python EDA](Python/cab_booking_python.ipynb)  
-- 📁 [Dataset](data/cab_rides_final.csv)  
+- 📊 [Dashboard](Cab Booking System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_System.pbix)  
+- 🗄️ [SQL Queries](Cab Booking System(End_to_End_Data_Analytics_Project)/SQL_queries/Cab_booking_system.sql)  
+- 🐍 [Python EDA](Cab Booking System(End_to_End_Data_Analytics_Project)/Python/cab_booking_python.ipynb)  
+- 📁 [Dataset](Cab Booking System(End_to_End_Data_Analytics_Project)/Data/cab_rides_final.csv)  
 
 ---
 
@@ -77,17 +77,17 @@ Cab services generate massive data, but without analytics:
 
 ### 🔹 Ride Hailing Executive Overview
 <p align="center">
-  <img src="Images/Ride_hailing_overview.png" width="80%"/>
+  <img src="Cab Booking System(End_to_End_Data_Analytics_Project)/Images/Ride_hailing_overview.png" width="80%"/>
 </p>
 
 ### 🔹 Operations & Demand Analysis
 <p align="center">
-  <img src="Images/Operations_&_Demand_Analysis.png" width="80%"/>
+  <img src="Cab Booking System(End_to_End_Data_Analytics_Project)/Images/Operations_&_Demand_Analysis.png" width="80%"/>
 </p>
 
 ### 🔹 Revenue & Performance Analysis
 <p align="center">
-  <img src="images/Revenue_&_Performance_Analysis.png" width="80%"/>
+  <img src="Cab Booking System(End_to_End_Data_Analytics_Project)/Images/Revenue_&_Performance_Analysis.png" width="80%"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Cab services generate massive data, but without analytics:
 
 ## 🎥 Project Demo
 
-👉 [▶ Watch Dashboard Demo](powerbi_dashboard/Cab_Booking_Preview.mp4)
+👉 [▶ Watch Dashboard Demo](Cab Booking System(End_to_End_Data_Analytics_Project)/powerbi_dashboard/Cab_Booking_Preview.mp4)
 
 ---
 
