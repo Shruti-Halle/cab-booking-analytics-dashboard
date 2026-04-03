@@ -18,14 +18,12 @@ End-to-end cab booking data analysis project using Excel, MySQL, Python (EDA), a
 ---
 
 ## 📌 Quick Navigation
-
 👉 [📊 Dashboard](#dashboard-preview)  
 👉 [⚙️ Tech Stack](#tech-stack)  
 👉 [🔄 Workflow](#project-workflow)  
 👉 [📂 Project Files](#project-structure)  
 👉 [🔍 Insights](#key-insights)  
 👉 [🎥 Demo](#project-demo)  
-
 ---
 
 ## 🎯 Problem Statement
