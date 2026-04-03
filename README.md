@@ -5,7 +5,7 @@ End-to-end cab booking data analysis project using Excel, MySQL, Python (EDA), a
 **Keywords:** Data Analysis, SQL, Python, Power BI, Business Intelligence, Data Analytics Project
 
 <p align="center">
-  <img src="images/Ride_hailing_overview.png" width="90%"/>
+  <img src="Images/Ride_hailing_overview.png" width="90%"/>
 </p>
 
 ---
